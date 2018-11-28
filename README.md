@@ -1,2 +1,3 @@
-# kjv_bible_with_strongs_links
-Format txt and add Strong;s links to bible verses.
+# pull_text
+A program to pull a block of text from a document and then write the bock of text in a new blank document.
+
