@@ -42,3 +42,4 @@ There are 14,300 pages of html code that need editing, similar to the code below
 
 <i>if the program recognizes Greek 1 in the title tag it should create a new file named <b>G0001.html</b>, Then write the text selected from inbetween the two divs,(shown in <b>Figure 1</b> ), and then save the newly created file in the specified folder.</i>
 
+The program or bot should be able to perform this tasks on multiple files within a folder on a one click command, without having to tell the program to do this one file at a time.
