@@ -1,6 +1,33 @@
 # pull_text
 I need a program that can scan text and find a section of text between two divs, then take the selected text and write it into a seperate file, name the file, and save it in a designated folder.
 
-There are 14,300 pages of html code similar to the code below.:point_down:<br><br>
+There are 14,300 pages of html code that need editing, similar to the code below.:point_down:<br><br> example below image.
 
- ![alt text](https://github.com/luvlylavnder/pull_text/blob/master/code%20_example.png)
+![code example](https://github.com/luvlylavnder/pull_text/blob/master/code%20_example.png)
+
+<h2>I need a program or a bot that can do the following.....</h2><br>
+
+<b>Look in folder =</b> (<i>/path/to/example folder</i>)<br> 
+<b>Recognize files in folder =</b> (<i>example files - html.1, html.2, html.3</i>)<br>
+<b>Perform task on all files in folder.</b>
+
+<b>Task - Find Text Between =</b> (<i>```<div id="topheading"></i></b> and <b><i><div class="vheading2"></i>```)<br>
+<b>Write new found text in new file, rename new file, save new file in new folder</b><br> 
+<b><i>Program should rename file according to the title tag</i></b><br>
+<b><i>Program should reconize either the word (<b>Hebew</b>) or (<b>Greek</b>) and the (<b>number</b>) in the title</i></b>:point_down:<br><br>
+![code example](https://github.com/luvlylavnder/pull_text/blob/master/title_hebrew_example.png)<br><br>
+![code example](https://github.com/luvlylavnder/pull_text/blob/master/title_greek_example.png)<br><br>
+<i>If the title contains the word Hebrew and a number the program should rename the new file (<b>H</b>) and the (<b>number</b>)</i><br><br>
+<i>If the title contains the word Greek and a number the program should rename the new file (<b>G</b>) and the (<b>number</b>)</i><br>
+ <br>
+<i>The number in the title tag should always be formated as a four digit number.<i>  The number 1 should become 0001, the number 10 should become 0010, the number 100 should become 0100, the number 1000 should stay as it is.<i>
+ 
+<h2>Example 1</h2><br>
+<if the program recognizes Hebrew 350 in the title tag it should create a new file named H0350.html, write selected text, and save it in the specified folder.
+
+<h2>Example 2</h2><br>
+<if the program recognizes Hebrew 350 in the title tag it should create a new file named H0350.html, write selected text, and save it in the specified folder.
+<b>Save new file as an html file</b> (<i>new file.html</i>
+ 
+ <b></b>
+ <i></i>
