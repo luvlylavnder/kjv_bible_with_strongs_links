@@ -2,6 +2,7 @@
 I need a program that can scan text and find a section of text between two divs, then take the selected text and write it into a seperate file, name the file, and save it in a designated folder.
 
 There are 14,300 pages of html code that need editing, similar to the code below.:point_down:<br><br> example below image.
+<h2>Figure 1</h2>
 
 ![code example](https://github.com/luvlylavnder/pull_text/blob/master/code%20_example.png)
 
@@ -15,7 +16,9 @@ There are 14,300 pages of html code that need editing, similar to the code below
 <b>Write new found text in new file, rename new file, save new file in new folder</b><br> 
 <b><i>Program should rename file according to the title tag</i></b><br>
 <b><i>Program should reconize either the word (<b>Hebew</b>) or (<b>Greek</b>) and the (<b>number</b>) in the title</i></b>:point_down:<br><br>
+ <h2>Figure 2</h2>
 ![code example](https://github.com/luvlylavnder/pull_text/blob/master/title_hebrew_example.png)<br><br>
+<h2>Figure 3</h2>
 ![code example](https://github.com/luvlylavnder/pull_text/blob/master/title_greek_example.png)<br><br>
 <i>If the title contains the word Hebrew and a number the program should rename the new file (<b>H</b>) and the (<b>number</b>)</i><br><br>
 <i>If the title contains the word Greek and a number the program should rename the new file (<b>G</b>) and the (<b>number</b>)</i><br>
