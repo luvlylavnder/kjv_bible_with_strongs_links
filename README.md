@@ -24,16 +24,17 @@ There are 14,300 pages of html code that need editing, similar to the code below
 
 ![title greek](https://github.com/luvlylavnder/pull_text/blob/master/title_greek_example.png)
  
-<i>If the title contains the word Hebrew and a number the program should rename the new file (<b>H</b>) and the (<b>number</b>)</i><br><br>
-<i>If the title contains the word Greek and a number the program should rename the new file (<b>G</b>) and the (<b>number</b>)</i><br>
+<i>If the title contains the word <i>Hebrew</i> and a <i>number</i> the program should rename the new file (<b>H</b>) and the (<b>number</b>)</i><br><br>
+<i>If the title contains the word <i>Greek</i> and a <i>number</i> the program should rename the new file (<b>G</b>) and the (<b>number</b>)</i><br>
  <br>
 <i>The number in the title tag should always be formated as a four digit number.<i>  The number 1 should become 0001, the number 10 should become 0010, the number 100 should become 0100, the number 1000 should stay as it is.<i>
  
 <h2>Example 1</h2><br>
-<if the program recognizes Hebrew 350 in the title tag it should create a new file named H0350.html, write selected text, and save it in the specified folder.
+<i>if the program recognizes Hebrew 350 in the title tag it should create a new file named <b>H0350.html</b>, write selected text, and save it in the specified folder.</i>
 
 <h2>Example 2</h2><br>
-<if the program recognizes Hebrew 350 in the title tag it should create a new file named H0350.html, write selected text, and save it in the specified folder.
+<i>if the program recognizes Hebrew 350 in the title tag it should create a new file named <b>H0350.html</b>, write selected text, and save it in the specified folder.</i>
+
 <b>Save new file as an html file</b> (<i>new file.html</i>
  
  <b></b>
