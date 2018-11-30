@@ -7,7 +7,7 @@ I need a program that can scan text and find a section of text between two divs,
 There are 14,300 pages of html code that need editing, similar to the code below.:point_down:<br><br> example below image.
 <h2>Figure 1</h2>
 
-![code example](https://github.com/luvlylavnder/pull_text/blob/master/code%20_example.png)
+![code example](https://github.com/luvlylavnder/pull_text/blob/master/code-example.png)
 
 <h2>I need a program or a bot that can do the following.....</h2><br>
 
