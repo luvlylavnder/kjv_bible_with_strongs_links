@@ -15,10 +15,10 @@ There are 14,300 pages of html code that need editing, similar to the code below
 <b>Recognize files in folder =</b> (<i>example files - html.1, html.2, html.3</i>)<br>
 <b>Perform task on all files in folder.</b>
 
-<b>Task - Find Text Between =</b> (<b><i>```<div id="topheading">```</i></b> and <b><i>```<div class="vheading2">```</i></b>) as shown in <b>Figure 1</b><br>
-<b>Write new found text in new file, rename new file, save new file in new folder</b><br> 
-<b><i>Program should rename file according to the title tag</i></b><br>
-<b><i>Program should reconize either the word (<b>Hebew</b>) or (<b>Greek</b>) and the (<b>number</b>) in the title</i></b>:point_down:<br><br>
+<b>Task - Find Text Between =</b> (<b><i>```<div id="topheading">```</i></b> and <b><i>```<div class="vheading2">```</i></b>) as shown in <b>Figure 1</b><br><br>
+<b>Write new found text in new file, rename new file, save new file in new folder</b><br><br> 
+<b><i>Program should rename file according to the title tag</i></b><br><br>
+<b><i>Program should reconize either the word (<b>Hebew</b>) or (<b>Greek</b>) and the (<b>number</b>) in the title</i></b> :point_down:<br><br>
 <h2>Figure 2</h2>
 
 <img src="https://raw.githubusercontent.com/luvlylavnder/pull_text/master/assets/figure2.png" alt="Figure 2" class="inline"/>
