@@ -21,11 +21,11 @@ There are 14,300 pages of html code that need editing, similar to the code below
 <b><i>Program should reconize either the word (<b>Hebew</b>) or (<b>Greek</b>) and the (<b>number</b>) in the title</i></b>:point_down:<br><br>
 <h2>Figure 2</h2>
 
-![title hebrew](https://github.com/luvlylavnder/pull_text/blob/master/title_hebrew_example.png)
+<img src="https://raw.githubusercontent.com/luvlylavnder/pull_text/master/assets/figure2.png" alt="Figure 2" class="inline"/>
  
 <h2>Figure 3</h2>
 
-![title greek](https://github.com/luvlylavnder/pull_text/blob/master/title_greek_example.png)
+<img src="https://raw.githubusercontent.com/luvlylavnder/pull_text/master/assets/figure3.png" class="inline"/>
  
 <i>If the title contains the word <i>Hebrew</i> and a <i>number</i> the program should rename the new file (<b>H</b>) and the (<b>number</b>)</i><br><br>
 <i>If the title contains the word <i>Greek</i> and a <i>number</i> the program should rename the new file (<b>G</b>) and the (<b>number</b>)</i><br>
